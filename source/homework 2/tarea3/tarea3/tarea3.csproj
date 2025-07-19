@@ -10,6 +10,7 @@
   <ItemGroup>
     <Compile Include="C:\Users\user\OneDrive\Desktop\homework-2.txt" Link="homework-2.txt" />
     <Compile Include="C:\Users\user\source\repos\Homework_1\homework-2.txt" Link="homework-2.txt" />
+    <Compile Include="C:\Users\user\source\repos\Homework_1\source\homework-2.txt" Link="homework-2.txt" />
   </ItemGroup>
 
 </Project>
