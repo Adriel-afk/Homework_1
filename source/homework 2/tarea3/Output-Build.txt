@@ -1,0 +1,6 @@
+﻿Build started at 1:21 a. m....
+1>------ Build started: Project: tarea3, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>tarea3 -> C:\Users\user\source\repos\Homework_1\source\homework 2\tarea3\tarea3\bin\Debug\net8.0\tarea3.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 1:21 a. m. and took 09.935 seconds ==========
